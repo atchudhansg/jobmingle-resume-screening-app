@@ -1,0 +1,34 @@
+plugins {
+    id "com.android.application"
+    // START: FlutterFire Configuration
+    id 'com.google.gms.google-services'
+    // END: FlutterFire Configuration
+    id "kotlin-android"
+    id "dev.flutter.flutter-gradle-plugin"
+}
+
+android {
+    compileSdk flutter.compileSdkVersion
+    ndkVersion flutter.ndkVersion
+
+    defaultConfig {
+        // Other default configurations...
+
+        // Enable multidex
+        multiDexEnabled true
+    }
+
+    // Other configurations...
+
+}
+
+dependencies {
+    // Add the multidex dependency
+    implementation 'com.android.support:multidex:1.0.3'
+
+    // Other dependencies...
+}
+
+flutter {
+    source '../..'
+}
