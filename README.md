@@ -33,7 +33,7 @@ To install JobMingle, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/jobmingle.git
+    https://github.com/atchudhansg/jobmingle-resume-screening-app.git
     ```
 2. Install dependencies:
     ```sh
