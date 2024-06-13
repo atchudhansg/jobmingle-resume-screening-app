@@ -6,7 +6,6 @@ JobMingle is a web-based recruitment management platform designed to streamline 
 - [Key Features](#key-features)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Future Work](#future-work)
 - [License](#license)
 
