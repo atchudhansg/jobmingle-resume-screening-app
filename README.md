@@ -6,7 +6,6 @@ JobMingle is a web-based recruitment management platform designed to streamline 
 - [Key Features](#key-features)
 - [How It Works](#how-it-works)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Future Work](#future-work)
 - [License](#license)
 
@@ -69,18 +68,19 @@ Join JobMingle today and experience the future of recruitment management.
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/51fd6370-8c88-40a5-8561-d495c91e915f" alt="Screenshot 1" width="259"/>
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/bd95b1a6-bba5-441f-a57f-3534a389df43" alt="Screenshot 2" width="273"/>
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/84fd8dca-30e0-42b5-8231-8b3ca4e93596" alt="Screenshot 3" width="294"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/51fd6370-8c88-40a5-8561-d495c91e915f" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/bd95b1a6-bba5-441f-a57f-3534a389df43" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/84fd8dca-30e0-42b5-8231-8b3ca4e93596" alt="Screenshot 3" width="200"/>
 </p>
 <p align="center">
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/4d1ba3d2-8459-4a93-a0d8-f4cb7f1bf301" alt="Screenshot 4" width="265"/>
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/d81a2e69-4864-4144-8150-bdb2b449e124" alt="Screenshot 5" width="257"/>
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/baef355f-0605-49ee-9238-329b95ff2de0" alt="Screenshot 6" width="229"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/4d1ba3d2-8459-4a93-a0d8-f4cb7f1bf301" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/d81a2e69-4864-4144-8150-bdb2b449e124" alt="Screenshot 5" width="200"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/baef355f-0605-49ee-9238-329b95ff2de0" alt="Screenshot 6" width="200"/>
 </p>
 <p align="center">
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/fce1cd5d-308d-4593-a160-af74a0a9f750" alt="Screenshot 7" width="222"/>
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/b89c6700-97a8-4d9d-87d3-6c8b04576a74" alt="Screenshot 8" width="251"/>
-  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/d9693725-bee5-4db7-b06b-ff59b6f11148" alt="Screenshot 9" width="219"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/fce1cd5d-308d-4593-a160-af74a0a9f750" alt="Screenshot 7" width="200"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/b89c6700-97a8-4d9d-87d3-6c8b04576a74" alt="Screenshot 8" width="200"/>
+  <img src="https://github.com/atchudhansg/jobmingle-resume-screening-app/assets/116624804/d9693725-bee5-4db7-b06b-ff59b6f11148" alt="Screenshot 9" width="200"/>
 </p>
+
 
