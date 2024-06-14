@@ -1,6 +1,6 @@
 # JobMingle: Revolutionizing Recruitment Management
 
-JobMingle is a web-based recruitment management platform designed to streamline the hiring process for both recruiters and applicants. Built with Flutter for the frontend and Firebase for the backend, JobMingle offers a scalable, secure, and efficient solution for modern recruitment needs.
+JobMingle is a app-based recruitment management platform designed to streamline the hiring process for both recruiters and applicants. Built with Flutter for the frontend and Firebase for the backend, JobMingle offers a scalable, secure, and efficient solution for modern recruitment needs.
 
 ## Table of Contents
 - [Key Features](#key-features)
@@ -13,10 +13,8 @@ JobMingle is a web-based recruitment management platform designed to streamline 
 
 - **Intuitive Interface:** User-friendly interface for recruiters to post job openings, manage applications, and track candidate progress, while applicants can search and apply for jobs effortlessly.
 - **Advanced Candidate Management:** Robust tools for recruiters to efficiently review, screen, and track candidate progress throughout the hiring pipeline.
-- **Seamless Communication:** Built-in messaging features facilitate transparent and collaborative communication between recruiters and applicants.
 - **Powerful Search and Filtering:** Advanced search and filtering options enable applicants to refine their job search based on location, industry, and job type.
-- **Scalable Infrastructure:** Leveraging Firebase backend ensures scalability, security, and real-time data synchronization.
-- **Mobile Accessibility:** Future plans include developing a mobile app for on-the-go access, enhancing flexibility and convenience for users.
+- **Scalable Infrastructure:** Utilizing Firebase backend ensures scalability, security, and real-time data synchronization.
 - **Google Authentication:** Supports Google authentication using Firebase for secure and convenient user login.
 
 ## How It Works
