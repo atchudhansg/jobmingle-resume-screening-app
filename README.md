@@ -1,4 +1,4 @@
-# JobMingle: A Simple HR Solution
+# JobMingle: Efficient Recruitment Management Solution
 
 JobMingle is a app-based recruitment management platform designed to streamline the hiring process for both recruiters and applicants. Built with Flutter for the frontend and Firebase for the backend, JobMingle offers a scalable, secure, and efficient solution for modern recruitment needs.
 
